@@ -1,0 +1,11 @@
+C:\Users\Ian.Mutuma\Desktop\TBL\EmployeesHierarchy-main\EmployeesHierarchy\bin\Debug\netcoreapp3.1\EmployeesHierarchy.exe
+C:\Users\Ian.Mutuma\Desktop\TBL\EmployeesHierarchy-main\EmployeesHierarchy\bin\Debug\netcoreapp3.1\EmployeesHierarchy.deps.json
+C:\Users\Ian.Mutuma\Desktop\TBL\EmployeesHierarchy-main\EmployeesHierarchy\bin\Debug\netcoreapp3.1\EmployeesHierarchy.runtimeconfig.json
+C:\Users\Ian.Mutuma\Desktop\TBL\EmployeesHierarchy-main\EmployeesHierarchy\bin\Debug\netcoreapp3.1\EmployeesHierarchy.runtimeconfig.dev.json
+C:\Users\Ian.Mutuma\Desktop\TBL\EmployeesHierarchy-main\EmployeesHierarchy\bin\Debug\netcoreapp3.1\EmployeesHierarchy.dll
+C:\Users\Ian.Mutuma\Desktop\TBL\EmployeesHierarchy-main\EmployeesHierarchy\bin\Debug\netcoreapp3.1\EmployeesHierarchy.pdb
+C:\Users\Ian.Mutuma\Desktop\TBL\EmployeesHierarchy-main\EmployeesHierarchy\obj\Debug\netcoreapp3.1\EmployeesHierarchy.csprojAssemblyReference.cache
+C:\Users\Ian.Mutuma\Desktop\TBL\EmployeesHierarchy-main\EmployeesHierarchy\obj\Debug\netcoreapp3.1\EmployeesHierarchy.AssemblyInfoInputs.cache
+C:\Users\Ian.Mutuma\Desktop\TBL\EmployeesHierarchy-main\EmployeesHierarchy\obj\Debug\netcoreapp3.1\EmployeesHierarchy.AssemblyInfo.cs
+C:\Users\Ian.Mutuma\Desktop\TBL\EmployeesHierarchy-main\EmployeesHierarchy\obj\Debug\netcoreapp3.1\EmployeesHierarchy.dll
+C:\Users\Ian.Mutuma\Desktop\TBL\EmployeesHierarchy-main\EmployeesHierarchy\obj\Debug\netcoreapp3.1\EmployeesHierarchy.pdb
